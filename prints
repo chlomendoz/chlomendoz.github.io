@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <h1>Illustrations</h1>
+    <h2>All Illustrations Hand-Drawn on Procreate</h2>
+    <div>
+        <img src="Images/MCherub.jpg" width=900px height=700px />
+        <img src="Images/Phones.jpg" width=500px height=700px />
+        <img src="Images/Comic1.jpg" width=500px height=800px />
+        <img src="Images/JollyJoker.jpg" width=600px height=800px />
+        <img src="Images/8Ball.jpg" width=600px height=700px />
+    </div>
+    <a href="chloe.html">Home Page</a>
+</body>
+
+</html>

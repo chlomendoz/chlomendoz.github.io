@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <title></title>
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+    <div>
+        <h1>Recent Collaborations</h1>
+        <p>Past work done in conjunction with musicians and independent businesses</p>
+    </div>
+    <div>
+        <h2>Eliza Elliott x Chloe Mendoza</h2>
+        <p>
+            Promotional work done for Eliza Elliott's upcoming EP
+        </p>
+        <img src="Images/EELogoTest.jpg" width=600px height=700px />
+
+    
+        <div>
+        <video width="320" height="240" controls>
+            <source src="video/EEGrounded.MP4" type="video/mp4">
+            Your browser does not support the video element.
+        </video>
+       
+        <video width="320" height="240" controls>
+            <source src="video/EELogo.mp4" type="video/mp4">
+        </video>
+
+        <video width="320" height="240" controls>
+            <source src="video/EELogo2.mp4" type="video/mp4">
+            Your browser does not support the video element.
+        </video>
+        </div>
+
+
+        <h2>Eavesdrop x Chloe Mendoza</h2>
+        <p>
+            Bottle Labels and Cocktail Designs For Eavesdrop NYC's Spring 2024 Cocktail Menu
+        </p>
+        <img src="Images/bottles.jpg" width=600px height=600px>
+        <img src="Images/eaves1.jpg" width=600px height=600px>
+        <img src="Images/eaves2.jpg" width=600px height=600px>
+        <img src="Images/eaves3.jpg" width=600px height=600px>
+        <img src="Images/eaves4.jpg" width=600px height=600px>
+        <img src="Images/eaves5.jpg" width=600px height=600px>
+        <img src="Images/eaves6.jpg" width=600px height=600px>
+        <img src="Images/eaves7.jpg" width=600px height=600px>
+        <img src="Images/eaves8.jpg" width=600px height=600px>
+        <img src="Images/eaves9.jpg" width=600px height=600px>
+        <img src="Images/eaves10.jpg" width=600px height=600px>
+        <img src="Images/eaves11.jpg" width=600px height=600px>
+        <img src="Images/eaves12.jpg" width=600px height=600px>
+
+        <h2>Yu & Me Books x Chloe Mendoza</h2>
+        <p>
+            Flyer for Yu & Me Books Mingles Event
+        </p>
+        <img src="Images/YMFlyer.jpg" width=600px height=600px>
+
+        <a href="chloe.html">Home Page</a>
+
+</body>
+
+</html>
